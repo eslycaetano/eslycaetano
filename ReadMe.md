@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🥸 About Me:
 👤 Esly Caetano<br>🎓 Studying: Computer Science at UEPB<br>💻 Currently learning: Web Development (HTML, CSS, JavaScript, React)<br>🔎 Unemployed, but open to opportunities<br>🎬 Fun fact: I'm really into movies and series!
 
 
