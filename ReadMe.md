@@ -3,17 +3,47 @@
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_esly14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslycaetano14) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/EslynMotoBoy) 
+<div align="center"> 
+ <a href="https://instagram.com/_esly14" target="_blank"> <img src="https://img.icons8.com/?size=75&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Badge" /></a> <img width="10"/>
+ <a href="https://linkedin.com/in/eslycaetano14" target="_blank"> <img src="https://img.icons8.com/?size=75&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn Badge" /></a> <img width="10"/>
+ <a href="https://twitch.tv/EslynMotoBoy" target="_blank"> <img src="https://img.icons8.com/?size=75&id=7qFfaszJSlTs&format=png&color=000000" alt="Twitch Badge" /></a>
+</div>
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<div align="center"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />  <img width="12"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" /> <img width="12"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" /> <img width="12"/>
+ <!-- Styling Framework --> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind logo" /> <img width="12"/>
+ <!-- JavaScript & TypeScript --> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" /> <img width="12"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" /> <img width="12"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" /> <img width="12"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" /> <img width="12"/>
+ <!-- Databases --> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL logo" /> <img width="12"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+</div>
+
+###
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eslycaetano&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eslycaetano&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslycaetano&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=eslycaetano&theme=gotham&hide_border=false)<br/> 
+-->
+<div align="center"> 
+ <div>
+ <img src="https://github-readme-stats.vercel.app/api?username=eslycaetano&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+ </div>
+ <div> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslycaetano&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+ </div>
+</div>
 
 ---
+<!--
 [![](https://visitcount.itsvg.in/api?id=eslycaetano&icon=8&color=8)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
