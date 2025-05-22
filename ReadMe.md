@@ -1,17 +1,22 @@
 # Hello there, I'm Esly Caetano 👋
 
-# 🥸 About Me:
+# 🥸 About Me
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
-    🎓 Studying: Computer Science at UEPB<br>
-    💻 Currently learning: Web Development (HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React)<br>
-    🔎 Unemployed, but open to opportunities<br>
-    🎬 I'm really into movies and series!<br> 
-    💬 If you have any feedback, please do not hesitate to reach out to me!
-  </div>
-  <img src="./.github/gif-jimCarrey.gif" alt="Jim Carrey gif" width="300" />
-</div>
+<table>
+  <tr>
+    <td>
+      
+🎓 Studying: Computer Science at UEPB<br>
+💻 Currently learning: Web Development (HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React)<br>
+🔎 Unemployed, but open to opportunities<br>
+🎬 I'm really into movies and series!<br>
+💬 If you have any feedback, please do not hesitate to reach out to me!
+    </td>
+    <td>
+      <img src="./.github/gif-jimCarrey.gif" width="300" alt="Jim Carrey gif"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
