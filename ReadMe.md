@@ -1,6 +1,6 @@
 # Hello there, I'm Esly Caetano 👋
 
-# 🥸 About Me
+# About Me 🥸
 
 <table>
   <tr>
@@ -12,13 +12,13 @@
 💬 If you have any feedback, please do not hesitate to reach out to me!
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW51aXNwN21vZ3NiZmNldHJkNGpveHhrczVqZmp5N3Fvc2NqMmRxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="300" alt="gif"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW51aXNwN21vZ3NiZmNldHJkNGpveHhrczVqZmp5N3Fvc2NqMmRxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="350" alt="gif"/>
     </td>
   </tr>
 </table>
 
 
-## 🌐 Socials:
+## Socials 🌐
 
 <div align="center"> 
  <a href="https://instagram.com/_esly14" target="_blank"> <img src="https://img.icons8.com/?size=75&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Badge" /></a> <img width="10"/>
@@ -27,7 +27,7 @@
  <a href="https://twitch.tv/EslynMotoBoy" target="_blank"> <img src="https://img.icons8.com/?size=75&id=7qFfaszJSlTs&format=png&color=000000" alt="Twitch Badge" /></a>
 </div>
 
-# 💻 Tech Stack:
+# Tech Stack 💻
 
 <div align="center"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />  <img width="12"/> 
