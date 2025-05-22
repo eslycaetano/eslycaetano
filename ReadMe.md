@@ -12,7 +12,7 @@
 💬 If you have any feedback, please do not hesitate to reach out to me!
     </td>
     <td>
-      <img src="./.github/gif-jimCarrey.gif" width="300" alt="Jim Carrey gif"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY5dml4MDNkeG9yYmtzOGQzOGgwNjE2NjgyeWc3N2M0cGdjZGxrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="300" alt="gif"/>
     </td>
   </tr>
 </table>
