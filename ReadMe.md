@@ -8,11 +8,11 @@
 🎓 Studying: Computer Science at UEPB<br>
 💻 Currently learning: Web Development (HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React)<br>
 🔎 Unemployed, but open to opportunities<br>
-🎬 I'm really into movies and series!<br>
+🎬 I'm really into movies and series!<br> <br> <br>
 💬 If you have any feedback, please do not hesitate to reach out to me!
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW51aXNwN21vZ3NiZmNldHJkNGpveHhrczVqZmp5N3Fvc2NqMmRxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="350" alt="gif"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW51aXNwN21vZ3NiZmNldHJkNGpveHhrczVqZmp5N3Fvc2NqMmRxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="300" alt="gif"/>
     </td>
   </tr>
 </table>
