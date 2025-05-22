@@ -1,11 +1,25 @@
+# Hello there, I'm Esly Caetano 👋
+
 # 🥸 About Me:
-👤 Esly Caetano<br>🎓 Studying: Computer Science at UEPB<br>💻 Currently learning: Web Development (HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React)<br>🔎 Unemployed, but open to opportunities<br>🎬 Fun fact: I'm really into movies and series!
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    🎓 Studying: Computer Science at UEPB<br>
+    💻 Currently learning: Web Development (HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React)<br>
+    🔎 Unemployed, but open to opportunities<br>
+    🎬 I'm really into movies and series!<br> 
+    💬 If you have any feedback, please do not hesitate to reach out to me!
+  </div>
+  <img src="./.github/gif-jimCarrey.gif" alt="Jim Carrey gif" width="300" />
+</div>
 
 
 ## 🌐 Socials:
+
 <div align="center"> 
  <a href="https://instagram.com/_esly14" target="_blank"> <img src="https://img.icons8.com/?size=75&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Badge" /></a> <img width="10"/>
  <a href="https://linkedin.com/in/eslycaetano14" target="_blank"> <img src="https://img.icons8.com/?size=75&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn Badge" /></a> <img width="10"/>
+ <a href="mailto:eslycaetano.dev@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=75&id=P7UIlhbpWzZm&format=png&color=000000" alt="Twitch Badge" /></a> <img width="10"/>
  <a href="https://twitch.tv/EslynMotoBoy" target="_blank"> <img src="https://img.icons8.com/?size=75&id=7qFfaszJSlTs&format=png&color=000000" alt="Twitch Badge" /></a>
 </div>
 
@@ -28,10 +42,11 @@
 </div>
 
 ###
+
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eslycaetano&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eslycaetano&theme=gotham&hide_border=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=eslycaetano&theme=gotham&hide_border=false)<br/>
 -->
 <div align="center"> 
  <div>
@@ -43,6 +58,7 @@
 </div>
 
 ---
+
 <!--
 [![](https://visitcount.itsvg.in/api?id=eslycaetano&icon=8&color=8)](https://visitcount.itsvg.in)
 -->
