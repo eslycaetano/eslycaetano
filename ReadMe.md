@@ -5,7 +5,6 @@
 <table>
   <tr>
     <td>
-      
 🎓 Studying: Computer Science at UEPB<br>
 💻 Currently learning: Web Development (HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React)<br>
 🔎 Unemployed, but open to opportunities<br>
