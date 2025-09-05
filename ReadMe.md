@@ -52,13 +52,18 @@
 ![](https://github-readme-stats.vercel.app/api?username=eslycaetano&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eslycaetano&theme=gotham&hide_border=false)<br/>
 -->
-<div align="center"> 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=eslycaetano&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  </div>
-  <div> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslycaetano&theme=gotham&hide_border=false&layout=compact" alt="Top Languages" />
-  </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslycaetano&theme=dark&hide_border=true&layout=donut" alt="Top Languages" />
+      </td>
+      <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=eslycaetano&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
